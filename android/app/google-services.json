@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "875380705356",
+    "project_id": "ecommerce-products-2e81e",
+    "storage_bucket": "ecommerce-products-2e81e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875380705356:android:8117bb2d6c112be5c64ce9",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_products"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875380705356-ogu6ocdid61mbb526irpspkiuelarpqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce_products",
+            "certificate_hash": "43804d973481a7e5ce828bb826601098afee5e1a"
+          }
+        },
+        {
+          "client_id": "875380705356-s76cp71149r1r91k1b5k7q8uqecsqb5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce_products",
+            "certificate_hash": "36ad4329a48e570a666a60d4c15bda51593221cf"
+          }
+        },
+        {
+          "client_id": "875380705356-97ca6tfin81bbsljblhgf611rj48cgfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgeSuLWxc7E-jW90W0knlCG5yy49rrlqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875380705356-97ca6tfin81bbsljblhgf611rj48cgfb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "875380705356-9vbqcu6vt8tmafcg33eha0io6a61fs43.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceProducts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
